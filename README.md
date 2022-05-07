@@ -5,9 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=omjin7n)](https://solved.ac/omjin7n)
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=omjinLTS" width="400"/>
-</a>
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=omjinlts&theme=nord)
 
 <!--
 **omjinLTS/omjinLTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
