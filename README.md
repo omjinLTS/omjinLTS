@@ -5,6 +5,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=omjin7n)](https://solved.ac/omjin7n)
 
+github-readme-stats.vercel.app/api?username={omjinLTS}&show_icons=true
+
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=omjinlts&theme=nord)
 
 <!--
