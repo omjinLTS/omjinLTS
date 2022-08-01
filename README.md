@@ -2,8 +2,7 @@
 
  <a href="https://omjinlts.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-6667AB?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=omjin7n)](https://solved.ac/omjin7n)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=omjin7n)](https://solved.ac/omjin7n)
 
 ![gitstats](https://github-readme-stats.vercel.app/api?username=omjinLTS&show_icons=true)
 
